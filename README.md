@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Analytics and AI
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Python
+- 🔭 I’m currently exploring and AI models and their applications
 - 📫 How to reach me: Linkedin
 
 ### Marius 
